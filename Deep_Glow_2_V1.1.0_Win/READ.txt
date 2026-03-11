@@ -1,0 +1,16 @@
+﻿Simply copy the corresponding language-specific Deep Glow.aex and IrisBlurSDK.dll plugin files to the AE plugin directory, such as:
+
+....\Adobe After Effects 2024\Support Files\Plug-ins
+
+For more software/plugins/templates/materials downloads, please visit:
+
+
+Скачивайте бесплатно и повышайте свой профессиональный уровень!
+
+Ресурс скачан с Телеграм канала CGPerec - https://t.me/cgperec - Переходи к нам и качай ещё больше!
+============================================================================
+
+Подписывайся на CGPerec - https://t.me/cgperec и получай еще больше бесплатного контента !
+
+Subscribe to CGPerec - https://t.me/cgperec and get even more free content!
+============================================================================
